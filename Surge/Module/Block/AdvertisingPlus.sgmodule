@@ -1,6 +1,6 @@
 #!name=Block Advertising Plus
 #!desc=Block Advertising with Script for Surge iOS
-#!system=ios
+#!system=mac
 
 [URL Rewrite]
 # > Douyin By Choler
